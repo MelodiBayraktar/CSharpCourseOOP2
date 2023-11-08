@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematics", "..\Mathemati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferenceTypes", "..\ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{4B4AC481-0217-49F9-B185-4EC6B612A36F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "..\OOP1\OOP1.csproj", "{9E7E1821-2F74-489C-893B-4CCFF65C9650}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4B4AC481-0217-49F9-B185-4EC6B612A36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B4AC481-0217-49F9-B185-4EC6B612A36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B4AC481-0217-49F9-B185-4EC6B612A36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7E1821-2F74-489C-893B-4CCFF65C9650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7E1821-2F74-489C-893B-4CCFF65C9650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7E1821-2F74-489C-893B-4CCFF65C9650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7E1821-2F74-489C-893B-4CCFF65C9650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
