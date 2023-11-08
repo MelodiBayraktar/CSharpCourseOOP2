@@ -24,9 +24,9 @@ class Program
         ProductManager productManager = new ProductManager();
         productManager.Add(product1);
         Console.WriteLine(product1.ProductName);
-        productManager.Topla2(3, 6);
-        int toplamaSonucu = productManager.Topla(3, 6);
-        Console.WriteLine(toplamaSonucu *2);
+        //productManager.Topla2(3, 6);
+        //int toplamaSonucu = productManager.Topla(3, 6);
+        //Console.WriteLine(toplamaSonucu *2);
         //int number = 100;
         //productManager.BiSeyYap(number);
         //Console.WriteLine(number);
