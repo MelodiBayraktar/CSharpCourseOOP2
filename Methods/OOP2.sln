@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferenceTypes", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "..\OOP1\OOP1.csproj", "{9E7E1821-2F74-489C-893B-4CCFF65C9650}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "..\Collections\Collections.csproj", "{BF926265-E8F2-4629-B236-C55A9871D771}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9E7E1821-2F74-489C-893B-4CCFF65C9650}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E7E1821-2F74-489C-893B-4CCFF65C9650}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E7E1821-2F74-489C-893B-4CCFF65C9650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF926265-E8F2-4629-B236-C55A9871D771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF926265-E8F2-4629-B236-C55A9871D771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF926265-E8F2-4629-B236-C55A9871D771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF926265-E8F2-4629-B236-C55A9871D771}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
