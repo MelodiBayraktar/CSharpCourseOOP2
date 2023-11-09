@@ -5,10 +5,12 @@ namespace OOP1_3
 {
 	public class BasvuruManager
 	{
-		public void BasvuruYap(IKrediManager krediManager)
+		//method injection
+		public void BasvuruYap(IKrediManager krediManager, ILoggerService loggerService)
 		{
 			//Başvuran bilgilerini değerlendirme
 			krediManager.Hesapla();
+			loggerService.Log();
 		}
 
 		public void KrediOnBilgilendirmesiYap(List<IKrediManager> krediler)
